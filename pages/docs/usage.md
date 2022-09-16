@@ -131,3 +131,4 @@ abstract: <摘要>
 - [paper](?docs/usage&theme=paper)
 - [green](?docs/usage&theme=green)
 - [yellow](?docs/usage&theme=yellow)
+- [classic](?docs/usage&theme=classic)
