@@ -7,7 +7,7 @@ var Config = {
     theme: 'winter',
     showFooterText: true,
     footerText: '',
-    rootPath: '/quick-markdown/'
+    rootPath: '//'
 }
 
 if (typeof module === 'object') {
