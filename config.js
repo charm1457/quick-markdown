@@ -4,7 +4,7 @@ var Config = {
     notFoundText: '',
     defaultTitle: 'quick-markdown',
     notFoundPage: '',
-    theme: 'default',
+    theme: 'winter',
     showFooterText: true,
     footerText: '',
     rootPath: '/quick-markdown/'
